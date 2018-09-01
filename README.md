@@ -1,2 +1,2 @@
 # diplomka
-Simple java
+Diplomova praca 2019
